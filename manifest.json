@@ -1,0 +1,15 @@
+{
+  "name": "Zion Hub",
+  "short_name": "Zion Hub",
+  "description": "자이언 허브",
+  "start_url": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ]
+}
